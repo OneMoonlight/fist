@@ -1,2 +1,2 @@
-# fist
-Financial Irresponsibility and Stupidity Tracker
+# FIST: Financial Irresponsibility and Stupidity Tracker
+more text to come
